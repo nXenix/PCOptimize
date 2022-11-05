@@ -2,6 +2,34 @@
 
 CPU -- AMD Ryzen 7 5700x 8-Core Processor, 3401 Mhz (Stock) 16 Logical Processors
 Motherboard -- ASRock B550m Steel Legend (Bios P2.30)
+RAM -- Corsair Vengeance LPX 32GB 3200MHz
 GPU -- Asus Dual Evo OC NVIDIA RTX 2070 Super
         Driver Version: 31.0.15.2647 (NVIDIA 526.47)
 SSD - Sabrent Rocket 4.0 1TB NVME
+
+
+#My Overclocking/Undervolting CPU Settings that are stable for this current setup
+
+#Simultaneous MultiThreading -- ON
+
+Precision Boost Overdrive 2
+
+PPT -- 165W
+TDC -- 125A
+EDC -- 150A
+
+Curve Optimizer
+Per-Core
+Scalar at 10x
+
+Cores 0 - 5
+-10
+Cores 6-7
+-15
+Precision Boost Override Limit (+200)
+
+XMP Profile Enabled to boost to DRAM-3200MHz
+
+CPU Average Temperatures, Voltage, Clock Speed 
+
+
