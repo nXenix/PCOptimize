@@ -1,0 +1,30 @@
+# PCOptimize Global Nvidia Control Panel Settings that I use for every game for best possible performance around my PC Build
+
+Image Scaling -- OFF
+Ambient Occlusion -- OFF
+Anisotropic Filtering -- OFF
+Antialiasing FXAA -- OFF
+Antialiasing Gamma Correction -- OFF
+Antialiasing Mode -- OFF
+Background Application Max Frame Rate -- OFF
+CUDA GPUs -- ALL
+DSR Factors -- OFF
+DSR Smoothness -- OFF
+Low Latency Mode -- OFF
+Max Frame Rate -- OFF
+MultiFrame Sampled AA (MFAA) -- OFF
+OpenGL GDI Compatibility -- Auto
+OpenGL Rendering GPU (Select the GPU You Have) -- NVIDIA GeForce RTX 2070 Super
+Power Management Mode -- Prefer Maximum Performance
+Prefferred Refresh Rate -- Highest Available
+Sharer Cache Size -- Driver Default or 5GB
+Texture Filtering Anisotropic Sample Optimization -- ON
+Texture Filtering Negative LOD Bias -- Allow
+Testure Filtering Quality -- High Performance
+Texture Filtering Trilinear Optimization -- ON
+Threaded Optimization -- ON
+Triple Buffering -- OFF
+Vertical Sync -- OFF
+Virtual Reality Pre-Rendered Frames -- 1
+Virtual Reality - Variable Rate Super Sampling -- OFF
+Vulkan/OpenGL Present Method -- Auto
