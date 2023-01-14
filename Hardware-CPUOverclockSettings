@@ -14,18 +14,18 @@ SSD - Sabrent Rocket 4.0 1TB NVME
 
 Precision Boost Overdrive 2
 
-PPT -- 165W
-TDC -- 125A
-EDC -- 150A
+PPT -- 110W
+TDC -- 100A
+EDC -- 115A
 
 Curve Optimizer
 Per-Core
 Scalar at 10x
 
 Cores 0 - 5
--10
+-25
 Cores 6-7
--15
+-12
 Precision Boost Override Limit (+200)
 
 XMP Profile Enabled to boost to DRAM-3200MHz
@@ -33,6 +33,6 @@ XMP Profile Enabled to boost to DRAM-3200MHz
 CPU Average Temperatures, Voltage, Clock Speed 
 
 Temps -- 72c
-Voltage -- 1.282v
-Clock Speed -- 4500MHz - 4700MHz
+Voltage -- 1.46v
+Clock Speed -- 4750MHz - 4850MHz
 
