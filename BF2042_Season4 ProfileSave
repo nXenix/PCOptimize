@@ -1,3 +1,10 @@
+#Please Read this FIRST!
+# You will only be replacing all GstRender values within ProfSave_Profile
+#There is a separate file within GitHub that has all my other settings that I have setup on My PC.
+
+
+#Copy & Replace Paste GstRender Values -- Starts after GstInput.Vibration
+
 GstRender.AmbientOcclusion 0
 GstRender.AnisotropicFilter 0
 GstRender.AntiAliasingDeferred 0
